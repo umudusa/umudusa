@@ -1,51 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Umud%20Alizada&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00F7FF&height=300&section=header&text=Umud%20Alizada&fontSize=65&fontColor=ffffff&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+AI+Tools;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Developer;Future+Software+Engineer;Building+AI-Powered+Systems;React+%7C+Next.js+%7C+Node.js)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-🚀 AI-Assisted Full Stack Developer  
-🎓 Information Technology Graduate — AZMIU  
-💻 Master's Student in Computer Science — University of Bridgeport  
-🌎 Connecticut, USA  
-
-⚡ Passionate about modern web technologies, AI-powered applications, and creating real-world projects.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,vscode" />
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="800"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ About
+
+💻 AI-Assisted Full Stack Developer  
+🎓 Bachelor's in Information Technology  
+🏛️ Azerbaijan University of Architecture and Construction
+
+💻 Master's Student in Computer Science  
+🏛️ University of Bridgeport
+
+🌎 Connecticut, USA
+
+---
+
+## ⚒️ Technologies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umudusa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,tailwind,firebase,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=umudusa&theme=tokyonight&hide_border=true"/>
 
@@ -53,16 +47,14 @@
 
 ---
 
-# 🚀 Current Project
+## 🤖 AI Tools
 
-### DMV AI Assistant + Practice Hub
-
-AI-powered platform helping users prepare for DMV exams, road tests, and driving rules across different states.
+ChatGPT • Codex • Cursor AI • GitHub Copilot • Claude AI
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=umudusa&color=blueviolet&style=for-the-badge)
+> "Code + AI = Unlimited possibilities."
 
 </div>
