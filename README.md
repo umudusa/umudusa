@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+AI+Tools;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
 </div>
 
