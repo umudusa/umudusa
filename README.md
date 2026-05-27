@@ -1,67 +1,57 @@
 <div align="center">
 
-# Hi, I'm Umud Alizada 👋
+# Umud Alizada
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-Assisted+Full+Stack+Developer;React+%7C+Next.js+%7C+JavaScript;Building+AI-Powered+Web+Apps;Always+Learning+%26+Building)](https://git.io/typing-svg)
+### AI-Assisted Full Stack Developer | React | Next.js | JavaScript
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Learning+Computer+Science;Creating+AI-Powered+Products)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```js
-const umud = {
-  fullName: "Umud Alizada",
-  location: "Connecticut, USA",
-  role: "AI-Assisted Full Stack Developer",
-  education: {
-    bachelor: "Information Technology - Azerbaijan University of Architecture and Construction",
-    master: "Computer Science - University of Bridgeport",
-  },
-  currentFocus: [
-    "AI-powered web applications",
-    "React & Next.js development",
-    "Full stack project building",
-    "Modern UI/UX"
-  ],
-};
+I am an AI-assisted full stack developer focused on building modern, clean, and useful web applications.
+
+- 🎓 Bachelor's in Information Technology  
+  Azerbaijan University of Architecture and Construction
+
+- 💻 Master's Student in Computer Science  
+  University of Bridgeport
+
+- 🌎 Based in Connecticut, USA
+
+- 🚀 Currently building: **DMV AI Assistant + Practice Hub**
+
+---
+
+## Skills
+
+```txt
+Frontend     React, Next.js, JavaScript, TypeScript
+Styling      CSS, Tailwind CSS, Responsive Design
+Backend      Node.js, Firebase
+Tools        Git, GitHub, VS Code
+AI Tools     ChatGPT, Codex, Cursor AI, GitHub Copilot
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,tailwind,firebase,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Current Project
-
-**DMV AI Assistant + Practice Hub**
-
-An AI-powered web platform designed to help users prepare for DMV knowledge tests, road tests, and state-specific driving rules.
-
----
-
-## 📊 GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umudusa&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=github_dark&hide_border=true" />
 
 </div>
-
----
-
-## ⚡ Motto
-
-> Code. Learn. Build. Improve.
