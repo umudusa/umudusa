@@ -1,57 +1,51 @@
 <div align="center">
 
-# Umud Alizada
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F7FF&height=120&section=header&text=Umud%20Alizada&fontSize=40&fontColor=ffffff"/>
 
-### AI-Assisted Full Stack Developer | React | Next.js | JavaScript
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Learning+Computer+Science;Creating+AI-Powered+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3E+AI-Assisted+Full+Stack+Developer;%3E+React+%2B+Next.js+Developer;%3E+Building+Real+World+Web+Apps;%3E+Learning+Every+Day)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## ./profile
 
-I am an AI-assisted full stack developer focused on building modern, clean, and useful web applications.
-
-- 🎓 Bachelor's in Information Technology  
-  Azerbaijan University of Architecture and Construction
-
-- 💻 Master's Student in Computer Science  
-  University of Bridgeport
-
-- 🌎 Based in Connecticut, USA
-
-- 🚀 Currently building: **DMV AI Assistant + Practice Hub**
-
----
-
-## Skills
-
-```txt
-Frontend     React, Next.js, JavaScript, TypeScript
-Styling      CSS, Tailwind CSS, Responsive Design
-Backend      Node.js, Firebase
-Tools        Git, GitHub, VS Code
-AI Tools     ChatGPT, Codex, Cursor AI, GitHub Copilot
+```bash
+Name:        Umud Alizada
+Role:        AI-Assisted Full Stack Developer
+Location:    Connecticut, USA
+Focus:       AI-powered web applications
+Project:     DMV AI Assistant + Practice Hub
 ```
 
 ---
 
-## Technologies
+## ./education
+
+```bash
+Bachelor:    Information Technology
+University:  Azerbaijan University of Architecture and Construction
+
+Master:      Computer Science
+University:  University of Bridgeport
+```
+
+---
+
+## ./stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,tailwind,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,vscode" />
 
 </div>
 
 ---
 
-## GitHub Stats
+## ./github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umudusa&theme=tokyonight&hide_border=true"/>
 
 </div>
