@@ -1,53 +1,37 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="1000"/>
+# Umud 👋
 
-# ⚡ Umud Elizade ⚡
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Developer;React+%7C+Next.js+%7C+AI+Tools;Building+Future+Web+Apps;Cyberpunk+Coding+Mode+Activated)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=30&center=true&vCenter=true&width=800&lines=AI-Powered+Web+Developer;Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+AI)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```javascript
-const umud = {
-  role: "AI-Assisted Full Stack Developer",
-  location: "Connecticut, USA",
-  education: [
-    "AZMIU - Information Technology",
-    "University of Bridgeport - Computer Science"
-  ],
-  tools: ["React", "Next.js", "JavaScript", "AI Tools"],
-};
-```
+## About Me
+
+- 🎓 Information Technology Graduate
+- 💻 Master's Student in Computer Science
+- 🤖 AI-Assisted Full Stack Developer
+- ⚡ Building AI-powered web apps
+- 🌎 Connecticut, USA
 
 ---
 
-## 🚀 Tech Stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,tailwind,git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophy
+## Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umudusa&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 👀 Visitors
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=umudusa&color=blueviolet)
+<img src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=transparent"/>
 
 </div>
