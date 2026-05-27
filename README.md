@@ -1,62 +1,53 @@
 <div align="center">
 
-# Hi, I'm Umud 👋
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="1000"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+AI-Powered+Web+Apps;Bachelor's+in+Information+Technology;Master's+Student+in+Computer+Science)](https://git.io/typing-svg)
+# ⚡ Umud Elizade ⚡
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Developer;React+%7C+Next.js+%7C+AI+Tools;Building+Future+Web+Apps;Cyberpunk+Coding+Mode+Activated)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-🎓 Bachelor's in Information Technology  
-🏛️ Azerbaijan University of Architecture and Construction (AZMIU)
-
-💻 Master's Student in Computer Science  
-🏛️ University of Bridgeport
-
-🤖 AI-Assisted Full Stack Web Developer  
-⚡ Building AI-powered web applications and tools
-
-🌎 Connecticut, USA
+```javascript
+const umud = {
+  role: "AI-Assisted Full Stack Developer",
+  location: "Connecticut, USA",
+  education: [
+    "AZMIU - Information Technology",
+    "University of Bridgeport - Computer Science"
+  ],
+  tools: ["React", "Next.js", "JavaScript", "AI Tools"],
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,tailwind,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,tailwind,git,github,vscode,firebase" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophy
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umudusa&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umudusa&layout=compact&theme=tokyonight"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=umudusa&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 👀 Visitors
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=umudusa&theme=tokyonight"/>
+![](https://komarev.com/ghpvc/?username=umudusa&color=blueviolet)
 
 </div>
-
----
-
-## ⚡ Fun Fact
-
-AI helps me build faster than ever 🚀
