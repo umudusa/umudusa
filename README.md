@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00F7FF&height=280&section=header&text=Umud%20Alizada&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=280&section=header&text=Umud%20Alizada&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+AI+Tools;Always+Learning+New+Technologies)](https://git.io/typing-svg)
