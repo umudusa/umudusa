@@ -1,39 +1,41 @@
 <div align="center">
 
-# 🚀 Building AI-Powered Products
+# Hi, I'm Umud 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=AI-Assisted+Developer;Full+Stack+Web+Apps;Turning+Ideas+Into+Products;Building+DMV+AI+Assistant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+AI-Powered+Web+Apps;Bachelor's+in+Information+Technology;Master's+Student+in+Computer+Science)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-## 💡 About
+## 🚀 About Me
 
-I'm an AI-assisted developer focused on building modern web applications and AI-powered tools.
+🎓 Bachelor's in Information Technology  
+🏛️ Azerbaijan University of Architecture and Construction (AZMIU)
 
-Currently working on:
+💻 Master's Student in Computer Science  
+🏛️ University of Bridgeport
 
-- 🤖 DMV AI Assistant
-- ⚡ AI-powered web experiences
-- 🎨 Modern UI/UX
-- 🚀 Full stack applications
+🤖 AI-Assisted Full Stack Web Developer  
+⚡ Building AI-powered web applications and tools
+
+🌎 Connecticut, USA
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,tailwind,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,tailwind,firebase,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -45,6 +47,16 @@ Currently working on:
 
 ---
 
-## ⚡ Motto
+## 🔥 GitHub Streak
 
-> "AI is not replacing developers. It's upgrading them."
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=umudusa&theme=tokyonight"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+AI helps me build faster than ever 🚀
