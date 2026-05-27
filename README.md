@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: monospace;">
 
 # 👋 Hey, I'm Umud Alizada
 
@@ -9,6 +9,8 @@
 </div>
 
 ---
+
+<div style="font-family: monospace;">
 
 # 🚀 About Me
 
@@ -53,7 +55,7 @@ AI-powered platform helping users prepare for DMV exams, road tests, and driving
 
 > I use AI to build faster, learn faster, and create smarter applications.
 
----
+</div>
 
 <div align="center">
 
