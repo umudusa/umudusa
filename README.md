@@ -13,7 +13,7 @@
 # 🚀 About Me
 
 💻 AI-Assisted Full Stack Developer  
-🎓 Bachelor's in Information Technology — AUAC  
+🎓 Bachelor's in Information Technology — Azerbaijan University of Architecture and Construction  
 💻 Master's Student in Computer Science — University of Bridgeport  
 🌎 Connecticut, USA
 
