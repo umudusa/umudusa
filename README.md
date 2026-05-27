@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" width="100%" />
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80" width="100%" />
 
 # Hi, I'm Umud Alizada 👋
 
