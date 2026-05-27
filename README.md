@@ -1,56 +1,27 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80" width="100%" />
+<!-- Futuristic Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=UMUD%20ALIZADA&fontSize=55&fontColor=00f2fe&animation=twinkling&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=65&descAlign=50&theme=dark" width="100%" />
 
-# Umud Alizada
+<!-- Animated Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+the+Future+with+AI;Full+Stack+Development;Exploring+Robotics+%26+Algorithms" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Software+Engineer;AI-Assisted+Full+Stack+Developer;Building+Scalable+Applications)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/UmudAlizada">
+    <img src="https://img.shields.io/github/followers/UmudAlizada?label=Followers&style=for-the-badge&color=0d1117&logo=github&logoColor=00f2fe" alt="Followers">
+  </a>
+</p>
+
+---
 
 </div>
 
----
+## 🌌 About Me
 
-# 👨‍💻 About Me
-
-AI-assisted full stack developer focused on building scalable web applications and modern digital products.
-
-🎓 Information Technology Graduate — AZMIU  
-💻 Master's Student in Computer Science — University of Bridgeport  
-🌎 Connecticut, USA
-
----
-
-# 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=umudusa&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-- AI-powered web applications
-- Full stack development
-- Product engineering
-- Modern UI/UX
-
----
-
-<div align="center">
-
-⚡ Building with code & AI ⚡
-
-</div>
+```microarchitecture
+▼ [System Architecture - Umud Alizada]
+  ├── Role: AI-Assisted Full Stack Developer
+  ├── Location: Connecticut, USA 🇺🇸
+  └── Focus: AI-Powered Web Applications, Robotics & Complex Algorithms
