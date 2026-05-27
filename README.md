@@ -57,6 +57,6 @@ AI-powered platform helping users prepare for DMV exams, road tests, and driving
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=umudusa&color=00F7FF&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=umudusa&color=000000&style=for-the-badge)
 
 </div> 
