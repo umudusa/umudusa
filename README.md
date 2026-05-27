@@ -1,4 +1,4 @@
-<div align="center" style="font-family: monospace;">
+<div align="center">
 
 # 👋 Hey, I'm Umud Alizada
 
@@ -9,8 +9,6 @@
 </div>
 
 ---
-
-<div style="font-family: monospace;">
 
 # 🚀 About Me
 
@@ -55,10 +53,10 @@ AI-powered platform helping users prepare for DMV exams, road tests, and driving
 
 > I use AI to build faster, learn faster, and create smarter applications.
 
-</div>
+---
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=umudusa&color=00F7FF&style=for-the-badge)
 
-</div>
+</div> 
