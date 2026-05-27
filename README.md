@@ -1,36 +1,90 @@
 <div align="center">
 
-<!-- Holographic Sci-Fi Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=090d16&height=260&section=header&text=%E2%94%8C%20UMUD%20ALIZADA%20%E2%94%90&fontSize=50&fontColor=00f2fe&animation=twinkling&desc=%5B%20AI-Assisted%20Full%20Stack%20Developer%20%7C%20Building%20Intelligent%20Applications%20%5D&descAlignY=70&descAlign=50&theme=dark" width="100%" />
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1400&q=80" width="100%" />
 
-<!-- Terminal Interface Subtitle Grid -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%96%A0+System+Status%3A+Online;%E2%96%A0+Core%3A+Next.js+%2B+Python+%2B+Neural+Inference;%E2%96%A0+Parsing+Asymptotic+Algorithms+%26+Robotics..." alt="Typing SVG" />
-</a>
+# 👋 Hey, I'm Umud Alizada
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NETWORK_NODES-954-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Followers" />
-  <img src="https://img.shields.io/badge/SIGNAL_STRENGTH-3017-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Stars" />
-  <img src="https://img.shields.io/badge/LOCATION-CONNECTICUT%20%F0%9F%87%BA%F0%9F%87%B8-00f2fe?style=for-the-badge&labelColor=0d1117&color=00f2fe" alt="Location" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Assisted+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Real+Projects)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 
 </div>
 
 ---
 
-## 🖥️ System Node Layout
+# 🚀 About Me
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- Left Column: About Me Hub -->
-    <td width="50%" valign="top">
-      <h3>🧬 About Me</h3>
-      <p>AI-Assisted Full Stack Developer passionately creating AI-powered web applications. Highly focused on bridging modern software engineering techniques with advanced machine learning.</p>
-      
-```🚀
-▼ Academic Vectors
-  ├── Master's Student in CS
-  │   └── University of Bridgeport 🇺🇸
-  │
-  └── Bachelor's in IT
-      └── AZMIU 🇦🇿
+💻 AI-Assisted Full Stack Developer  
+🎓 Bachelor's in Information Technology — AZMIU  
+💻 Master's Student in Computer Science — University of Bridgeport  
+🌎 Connecticut, USA
+
+⚡ Passionate about building modern web applications, AI-powered systems, and real-world projects.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,mongodb,git,github,vscode" />
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=umudusa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=umudusa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=umudusa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤖 AI Tools I Use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<br/><br/>
+
+ChatGPT • Codex • Cursor AI • GitHub Copilot • Claude AI
+
+</div>
+
+---
+
+# 🚀 Current Project
+
+## DMV AI Assistant + Practice Hub
+
+AI-powered platform helping users prepare for DMV exams, road tests, and driving rules across different states.
+
+---
+
+# ⚡ Fun Fact
+
+> I use AI to build faster, learn faster, and create smarter applications.
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=umudusa&color=00F7FF&style=for-the-badge)
+
+</div>
